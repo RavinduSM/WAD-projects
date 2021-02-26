@@ -1,0 +1,61 @@
+card {
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 227px;
+  height: 450px;
+  margin:10px 0 10px 20px;
+  padding: 0px 0px 0px 0px ;
+  font-family: arial;
+}
+
+.img-rounded{
+	
+	width: 227px;
+	height: 250px;
+	
+	
+}
+
+.container {
+  padding: 2px 16px;
+	}
+
+.value{
+	padding:0.5rem;
+	border-radius: 20px;
+	width: 50px;
+	text-align: center;
+	color: #5B5959;
+	border-color: #44F163;
+	border-style:solid;
+	}
+.name{
+	color: #575656;
+	font-size: 18px;
+	text-align: center;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+ 
+}
+
+.button {
+  border: none;
+  border-radius: 5px;
+  outline: 0;
+  padding: 5px;
+  color:white;
+  background-color:#0ACC38;
+  text-align: center;
+  cursor: pointer;
+  font-size: 15px;
+  
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
